@@ -6,7 +6,6 @@ function spausdinti() {
     document.body.innerHTML = originalContents;
 }
 
-
 function eksportuotiPDF() {
 
 }
