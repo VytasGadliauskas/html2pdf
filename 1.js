@@ -4,7 +4,6 @@ function spausdinti() {
     document.body.innerHTML = printContents;
     window.print();
     document.body.innerHTML = originalContents;
-
 }
 
 

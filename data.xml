@@ -1,15 +1,17 @@
-<saskaitos-pavadinimas>Išankstinė sąskaita apmokėjimui Nr. PRE-0060</saskaitos-pavadinimas>
-<metai>2021-08-19</metai>
-<pirkejas>MB "Dirginta"<br>Adresas: Užtvankos g. 5-8, Dainių k., LT-74202 Jurbarko r.<br>Kodas: 304440270<br>PVM kodas: LT100010954418<br>Tel.: +370 630 24456<br>El. p.: sarunas.dirgincius@dirginta.lt<br></pirkejas>       
-<apmoketi-iki-metai>2021-08-19</apmoketi-iki-metai>  
-<pardavimo-pozicija>       
+<saskaita>
+    <saskaitos-pavadinimas>Išankstinė sąskaita apmokėjimui Nr. PRE-0060</saskaitos-pavadinimas>
+    <metai>2021-08-19</metai>
+    <pirkejas>MB "Dirginta"<br>Adresas: Užtvankos g. 5-8, Dainių k., LT-74202 Jurbarko r.<br>Kodas: 304440270<br>PVM kodas: LT100010954418<br>Tel.: +370 630 24456<br>El. p.: sarunas.dirgincius@dirginta.lt<br></pirkejas>       
+    <apmoketi-iki-metai>2021-08-19</apmoketi-iki-metai>  
+    <pardavimo-pozicija>       
 
-1	
-Kompiuterinio programavimo paslaugos pagal Darbų užsakymo ir paslaugų teikimo sutarties nr AC-P-2020-0035 priedo nr 5 punktus 1, 2, 3 ir 4	
-Vnt	
-1	
-950.0000	
-950.00
+    1	
+    Kompiuterinio programavimo paslaugos pagal Darbų užsakymo ir paslaugų teikimo sutarties nr AC-P-2020-0035 priedo nr 5 punktus 1, 2, 3 ir 4	
+    Vnt	
+    1	
+    950.0000	
+    950.00
 
-</pardavimo-pozicija>
-<saskaita-israse>Tautvydas Pučkus</saskaita-israse>
+    </pardavimo-pozicija>
+    <saskaita-israse>Tautvydas Pučkus</saskaita-israse>
+</saskaita>
