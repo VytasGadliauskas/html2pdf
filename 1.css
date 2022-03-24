@@ -1,0 +1,30 @@
+#menu {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: right;
+}
+
+#help {
+    text-align: center;
+    color: red;
+}
+
+#saskaita {
+    border: solid 1px grey;
+}
+
+button {
+    height: auto;
+    font-size: large;
+    border-radius: 10px;
+    border: none;
+    background-color: grey;
+    color: white;
+}
+
+button:hover {
+    background-color: blue;
+    
+}
