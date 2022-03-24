@@ -1,3 +1,13 @@
+import { jsPDF } from "jspdf.umd.min.js";
+var doc = new jsPDF();
+
+function saugotiPDF() {
+    doc.fromHTML(`<html><head><title>Saskaita</title></head><body>` + document.getElementById("saskaita").innerHTML + `</body></html>`);
+    doc.save('saskaita.pdf');
+}
+
+
+
 function spausdinti() {
     const printContents = document.getElementById('saskaita').innerHTML;
     const originalContents = document.body.innerHTML;
@@ -6,7 +16,4 @@ function spausdinti() {
     document.body.innerHTML = originalContents;
 }
 
-function saugotiPDF() {
-    doc.fromHTML(`<html><head><title>Saskaita</title></head><body>` + document.getElementById("saskaita").innerHTML + `</body></html>`);
-    doc.save('saskaita.pdf');
-}
+
