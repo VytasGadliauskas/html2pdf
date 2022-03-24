@@ -6,6 +6,7 @@ function spausdinti() {
     document.body.innerHTML = originalContents;
 }
 
-function eksportuotiPDF() {
-
+function saugotiPDF() {
+    doc.fromHTML(`<html><head><title>Saskaita</title></head><body>` + document.getElementById("saskaita").innerHTML + `</body></html>`);
+    doc.save('saskaita.pdf');
 }
