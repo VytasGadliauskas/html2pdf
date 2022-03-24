@@ -7,3 +7,5 @@ Bus kuriama kažkas nuo nulio, ar integruojami kažkokie sprendimai iš google i
 2022-03-18   Kadagi mokinuosi bandau daryti viska nuo nulio.
 
 https://vytasgadliauskas.github.io/saskaita/index.html
+
+DAR DAROMAS 
