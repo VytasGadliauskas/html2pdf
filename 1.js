@@ -1,8 +1,16 @@
 function saugotiPDF() {
-
-    var doc = new jsPDF();
-    doc.fromHTML(`<html><head><title>Saskaita</title></head><body>` + document.getElementById("saskaita").innerHTML + `</body></html>`);
-    doc.save('saskaita.pdf');
+    var element = document.getElementById('saskaita');
+        element.style.border = "none";
+ 
+    var opt = {
+        margin:       0,
+        filename:     'saskaita.pdf',
+        image:        { type: 'jpeg', quality: 1 },
+        html2canvas:  { scale: 1 },
+        jsPDF:        { unit: 'in', format: 'A4', orientation: 'portrait' }
+      };
+      
+      html2pdf().set(opt).from(element).save();
 }  
 
 
