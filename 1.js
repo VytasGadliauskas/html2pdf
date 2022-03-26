@@ -5,9 +5,9 @@ function saugotiPDF() {
     var opt = {
         margin:       0,
         filename:     'saskaita.pdf',
-        image:        { type: 'jpeg', quality: 1 },
+        image:        { type: 'png', quality: 1 },
         html2canvas:  { scale: 1 },
-        jsPDF:        { unit: 'in', format: 'A4', orientation: 'portrait' }
+        jsPDF:        { unit: 'in', format: 'A4', orientation: 'landscape' }
       };
       
       html2pdf().set(opt).from(element).save();
