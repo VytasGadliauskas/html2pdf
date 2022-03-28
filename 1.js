@@ -11,6 +11,7 @@ function saugotiPDF() {
       };
       
       html2pdf().set(opt).from(element).save();
+      element.style.border = "solid 1px grey";
 }  
 
 
