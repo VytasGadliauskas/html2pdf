@@ -7,7 +7,7 @@ Bus kuriama kažkas nuo nulio, ar integruojami kažkokie sprendimai iš google i
 --------------------------------------------------------------------------------------------------------
 2022-03-18   pradzia
 
-https://vytasgadliauskas.github.io/saskaita/index.html
+https://vytasgadliauskas.github.io/Saskaita-PDF/index.html
 
 
 
