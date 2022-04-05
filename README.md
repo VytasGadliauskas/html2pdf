@@ -9,6 +9,3 @@ Bus kuriama kažkas nuo nulio, ar integruojami kažkokie sprendimai iš google i
 
 https://vytasgadliauskas.github.io/Saskaita-PDF/index.html
 
-
-
-DAR DAROMAS 
